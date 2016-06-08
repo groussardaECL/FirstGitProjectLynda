@@ -1,7 +1,7 @@
 # Comment
 tempfile.txt
 .DS_Store
-*.zip
+*.zip	
 *.gz
 log/*.log
 # O nly for files, it would not include other folders
