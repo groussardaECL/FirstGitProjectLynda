@@ -4,7 +4,7 @@ tempfile.txt
 *.zip
 *.gz
 log/*.log
-# Only for files, it would not include other folders
+# O nly for files, it would not include other folders
 log/*.log[0-9]
 assets/photoshop/
 assets/videos/
